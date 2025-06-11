@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class InterestScreen extends StatefulWidget {
+  const InterestScreen({super.key});
+
   @override
   _InterestScreenState createState() => _InterestScreenState();
 }
